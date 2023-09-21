@@ -1,3 +1,8 @@
+// FULL JOIN :-> should be present in either tables
+// Inner JOin : should be present in  both the tables
+//Left Join : Should have all the entries from the left table
+//right join: Should have all the entries from the right table
+
 import { getClient } from "../utils";
 
 // Get all todos for a give user
